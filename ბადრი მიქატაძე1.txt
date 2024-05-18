@@ -1,0 +1,7 @@
+number = 123
+string_number = str(number)
+print("'" + string_number + "'")
+
+string_num = "123"
+number2 = int(string_num)
+print(number2)
